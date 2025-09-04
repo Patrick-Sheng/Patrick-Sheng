@@ -1,6 +1,6 @@
 <div align="center">
   <h1>👋 Hi, I'm Patrick Sheng!</h1>
-  <p><i>Software Engineering student at the University of Auckland, building games, web apps, and full-stack systems.</i></p>
+  <p><i>Software Engineering student at the University of Auckland</i></p>
 </div>
 
 ---
